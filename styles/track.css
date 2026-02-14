@@ -115,6 +115,7 @@
     height: 40px;
     border-radius: 50%;
     background: rgba(17, 17, 17, 0.08);
+    object-fit: scale-down;
     display: grid;
     place-items: center;
     flex: 0 0 auto;
